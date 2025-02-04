@@ -1,2 +1,2 @@
-# Linkshrink
-Linkshrink make your url simpler
+# Keskn
+Keskn make your url simpler
